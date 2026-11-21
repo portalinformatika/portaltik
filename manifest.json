@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Portal Informatika",
+  "short_name": "Informatika",
+  "description": "LMS Praktik Informatika — MA Tahfidh Putri Yanbu'ul Qur'an 2 Muria",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#3B1FA3",
+  "theme_color": "#3B1FA3",
+  "categories": ["education"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
